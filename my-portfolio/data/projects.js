@@ -28,7 +28,7 @@ export const projects = [
     {
         title: "Practica DOM",
         description: "Pagina web dedicada a crear una pagina de venta de articulo parecida a la pagina web de MediaMarkt",
-        image: "/public/Assets/DOM.png",
+        image: "Proyecto-2/my-portfolio/public/Assets/DOM.png",
         tech: ["HTML5", "CSS3", "JavaScript"],
         github: "https://github.com/ivmen/Practica-DOM",
         link: "Practica DOM"
