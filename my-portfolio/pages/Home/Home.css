@@ -5,25 +5,39 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 3rem;
+    gap: 2rem;
   }
+
+.home > h1 {
+  font-size: 5.5rem;
+  background: linear-gradient(to right, #6510b4 0%, #31dab5 50%, #f53e81 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
   
-  @media (max-width: 700px) {
-    .home {
-      padding: 0 2rem;
-    }
+.home > a {
+  font-size: 1.5rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.home > p {
+  text-align: justify;
+}
+
+@media (max-width: 770px) {
+  .home {
+    padding: 0 2rem;
   }
-  
-  .home > h1 {
-    font-size: 5.5rem;
-    background: linear-gradient(to right, #6510b4 0%, #31dab5 50%, #f53e81 100%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+  .home h1{
+    font-size: 3.5rem;
   }
-  
-  .home > a {
-    font-size: 1.5rem;
-    font-family: 'Courier New', Courier, monospace;
+  .home > p {
+    font-size: 1rem;
   }
+
+  .home > a{
+    font-size: 1rem;
+  }
+}

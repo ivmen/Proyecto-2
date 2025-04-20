@@ -10,7 +10,6 @@ export const Projects = () => {
   main.innerHTML = `
     <section class="projects">
     <h2>Featured Projects</h2>
-    ${Divider()}
     <div class="projects-container"></div>
     </section>`;
   const container = document.querySelector(".projects-container");
