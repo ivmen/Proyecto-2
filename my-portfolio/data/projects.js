@@ -4,7 +4,7 @@ export const projects = [
     {
         title: "Arquitectura de la información",
         description: "Pagina web de informacion sobre el grupo de heavy metal Scorpions",
-        image: "/public/Assets/scorpions.png",
+        image: "assets/scorpions.png",
         tech: ["HTML5"],
         github: "https://github.com/ivmen/html5_arquitectura_informacion",
         link: "Arquitectura de la informacion"
@@ -12,7 +12,7 @@ export const projects = [
     {
         title: "Landing Page",
         description: "Pagina web dedicada a crear un landing page como practica para The Power",
-        image:  "/public/Assets/landing-page.png",
+        image:  "assets//landing-page.png",
         tech: ["HTML5", "CSS3"],
         github: "https://github.com/ivmen/entrega_flex",
         link: "Landing Page"
@@ -20,7 +20,7 @@ export const projects = [
     {
         title: "Proyecto 1",
         description: "Pagina web dedicada a crear un landing page parecida a la pagina web de MediaMarkt",
-        image: "/public/Assets/media-markt.png",
+        image: "assets/media-markt.png",
         tech: ["HTML5", "CSS3"],
         github: "https://github.com/ivmen/Proyecto-1",
         link: "Proyecto 1"
@@ -28,7 +28,7 @@ export const projects = [
     {
         title: "Practica DOM",
         description: "Pagina web dedicada a crear una pagina de venta de articulo parecida a la pagina web de MediaMarkt",
-        image: "Proyecto-2/my-portfolio/public/Assets/DOM.png",
+        image: "assets/DOM.png",
         tech: ["HTML5", "CSS3", "JavaScript"],
         github: "https://github.com/ivmen/Practica-DOM",
         link: "Practica DOM"
