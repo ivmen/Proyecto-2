@@ -28,7 +28,7 @@
 
 .blog > p {
     font-size: 2rem;
-    font-family: cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
 }
 
@@ -40,7 +40,6 @@
     font-size: 2rem;
   }
   .blog > p{
-    font-size: 1rem;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem
   }
 }
