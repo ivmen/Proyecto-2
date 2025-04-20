@@ -36,12 +36,12 @@
 @media (max-width: 770px) {
   .blog > h1{
     font-size:  3.5rem;
-    font-style: normal;
   }
   .blog > h2{
     font-size: 2rem;
   }
   .blog > p{
     font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 }
