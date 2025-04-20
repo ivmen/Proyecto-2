@@ -16,12 +16,14 @@
   
   .home > h1 {
     font-size: 5.5rem;
-    background: linear-gradient(to right, #9845e8 0%, #33d2ff 50%, #dd5789 100%);
+    background: linear-gradient(to right, #6510b4 0%, #31dab5 50%, #f53e81 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
   .home > a {
     font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
   }

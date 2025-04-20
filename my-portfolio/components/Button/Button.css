@@ -22,3 +22,7 @@
   .my-btn:hover {
     background-color: var(--highlight);
   }
+
+  h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }

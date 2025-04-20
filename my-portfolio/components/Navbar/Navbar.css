@@ -12,6 +12,10 @@ nav {
       padding: 0 2rem;
     }
   }
+
+  nav > h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
   
   nav > ul {
     display: flex;

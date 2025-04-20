@@ -19,13 +19,16 @@ export const changeText = () => {
 
 export const Navbar = () => `
 <nav>
-<h2>Peter Parker</h2>
+<h2>Iván Méndez</h2>
 <ul>
     <li>
         <a href="#" id="homelink">Home</a>
     </li>
     <li>
         <a href="#" id="projectslink">Projects</a>
+    </li>
+     <li>
+        <a href="#" id="bloglink">Blog</a>
     </li>
     <li>
         <button id="themeBtn">☀</button>

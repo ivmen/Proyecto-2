@@ -1,0 +1,33 @@
+.blog{
+    padding: 0 8rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2rem;
+}
+
+.blog > h1 {
+    font-size: 5rem;
+    background: linear-gradient(to right, #dbc12a 0%, #29942f 50%, #c92f8ea6 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.blog > h2 {
+    font-size: 3.5rem;
+    background: linear-gradient(to right, #f39c4bd7 0%, #2448c0 50%, #cc1818a6 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.blog > p {
+    font-size: 2rem;
+    font-family: cursive;
+    font-style: italic;
+}

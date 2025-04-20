@@ -21,3 +21,7 @@ footer {
     gap: 1rem;
     flex-wrap: wrap;
   }
+
+  footer > h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
