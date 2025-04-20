@@ -1,5 +1,6 @@
 .projects {
     padding: 0 8rem;
+    height: 100%;
     min-height: 80vh;
     padding-bottom: 4rem;
     display: flex;
