@@ -23,5 +23,7 @@ export const Blog = () => {
     <p>Esta página web esta dedicada a poner en práctica los conocimiento de DOM adquiridos en el curso, unificando Html, Css y JavaScript para crear una 
     página web (nuevamente en este caso replicando Media Markt) donde tener la típica página de compra de productos con su filtro de busqueda y una serie de datos 
     de cada producto implementando la página al completo desde JavaScript manteniendo que sea responsive para diferente dispositivos.</p>
+    <h2>My Portfolio</h2>
+    <p>Esta página web esta dedicada a crear una página web a traves de Vite para crear un porfolio para exponer todos los proyectos que se van realizando durante el curso.</p>
     </section>`;
 };

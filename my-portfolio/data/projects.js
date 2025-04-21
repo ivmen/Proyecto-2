@@ -31,4 +31,12 @@ export const projects = [
         github: "https://github.com/ivmen/Practica-DOM",
         link: "Practica DOM"
     },
+    {
+        title: "My Portfolio",
+        description: "Página web dedicada a crear un portfolio a traves de vite",
+        image: "/assets/my-portfolio.png", 
+        tech: ["HTML5", "CSS3", "JavaScript, Vite"],
+        github: "https://github.com/ivmen/Proyecto-2",
+        link: "https://my-portfolio-chi-eight-76.vercel.app/"
+    }
 ];
