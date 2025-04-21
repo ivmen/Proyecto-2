@@ -5,7 +5,7 @@ export const projects = [
         image: "/assets/scorpions.png",
         tech: ["HTML5"],
         github: "https://github.com/ivmen/html5_arquitectura_informacion",
-        link: "Arquitectura de la informacion"
+        link: "https://html5-arquitectura-informacion-sigma.vercel.app/"
     },
     {
         title: "Landing Page",
@@ -13,7 +13,7 @@ export const projects = [
         image: "/assets/landing-page.png", 
         tech: ["HTML5", "CSS3"],
         github: "https://github.com/ivmen/entrega_flex",
-        link: "Landing Page"
+        link: "https://entrega-flex-delta.vercel.app/"
     },
     {
         title: "Proyecto 1",
@@ -21,7 +21,7 @@ export const projects = [
         image: "/assets/media-markt.png",
         tech: ["HTML5", "CSS3"],
         github: "https://github.com/ivmen/Proyecto-1",
-        link: "Proyecto 1"
+        link: "https://proyecto-1-ecru.vercel.app/"
     },
     {
         title: "Practica DOM",
@@ -29,7 +29,7 @@ export const projects = [
         image: "/assets/DOM.png", 
         tech: ["HTML5", "CSS3", "JavaScript"],
         github: "https://github.com/ivmen/Practica-DOM",
-        link: "Practica DOM"
+        link: "https://practica-dom-eta.vercel.app/"
     },
     {
         title: "My Portfolio",
