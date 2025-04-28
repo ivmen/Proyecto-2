@@ -42,7 +42,7 @@ export const projects = [
     {
         title: "Game Of Photos",
         description: "Página web dedicada recoger información de una API publica de Juego de tronos y mostrarla",
-        image: "/assets/GameOfPhotos.png", 
+        image: "/assets/GameOfPhothos.png", 
         tech: ["HTML5", "CSS3", "JavaScript"],
         github: "https://github.com/ivmen/ejercicios_async_js/tree/main/ejercicio1",
         link: "https://gameofphotos.vercel.app/"
