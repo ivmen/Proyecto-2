@@ -38,5 +38,29 @@ export const projects = [
         tech: ["HTML5", "CSS3", "JavaScript, Vite"],
         github: "https://github.com/ivmen/Proyecto-2",
         link: "https://my-portfolio-chi-eight-76.vercel.app/"
-    }
+    },
+    {
+        title: "Game Of Photos",
+        description: "Página web dedicada recoger información de una API publica de Juego de tronos y mostrarla",
+        image: "/assets/GameOfPhotos.png", 
+        tech: ["HTML5", "CSS3", "JavaScript"],
+        github: "https://github.com/ivmen/ejercicios_async_js/tree/main/ejercicio1",
+        link: "https://gameofphotos.vercel.app/"
+    },
+    {
+        title: "PokePhoto",
+        description: "Página web dedicada a recoger información de una API publica de Pokemon y mostrarla",
+        image: "/assets/PokePhotos.png", 
+        tech: ["HTML5", "CSS3", "JavaScript"],
+        github: "https://github.com/ivmen/ejercicios_async_js/tree/main/ejercicio2",
+        link: "https://pokephotos.vercel.app/"
+    },
+    {
+        title: "ProyectSplash",
+        description: "Página web dedicada recoger información de una API publica de fotografias y replicar funciones",
+        image: "/assets/Projectsplash.png", 
+        tech: ["HTML5", "CSS3", "JavaScript, Vite"],
+        github: "https://github.com/ivmen/Proyecto-3",
+        link: "https://proyectsplash.vercel.app/"
+    },
 ];

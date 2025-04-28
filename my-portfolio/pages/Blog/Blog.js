@@ -25,5 +25,17 @@ export const Blog = () => {
     de cada producto implementando la página al completo desde JavaScript manteniendo que sea responsive para diferente dispositivos.</p>
     <h2>My Portfolio</h2>
     <p>Esta página web esta dedicada a crear una página web a traves de Vite para crear un porfolio para exponer todos los proyectos que se van realizando durante el curso.</p>
-    </section>`;
+    <h2>Game Of Photos</h2>
+    <p>Esta página web esta dedicada a crear una página web que conecta con una API pública de información de personajes de la serie Juego de tronos donde a traves de un selector 
+    en el que están registrados todos los personajes de la API selecionas un personaje y puedes ver su foto.</p>
+    <h2>PokePhoto</h2>
+    <p>Esta página web esta dedicada a crear una página web que conecta con una API pública de información de Pokemón donde se cargan todos los pokemons de la primera generación, 
+    en este caso de la ID 1 al 151 y de forma aleatoria cada vez que entras o se recarga la págia se muestra en pantalla uno aleatorio de la seleción.</p>
+    <h2>Pokesplash</h2>
+    <p>Esta página web esta dedicada a crear una página web a traves de Vite donde se recrea Unsplash una API donde la gente sube sus fotografías que ya cuenta con una serie de
+    funciones, en este caso la recreación realiza una busqueda y muestra unas imagenes aleatorias, presenta una barra de busqueda donde realizar consultas para cargar fotos
+    asociadas a esa busqueda, tiene una opcion para cambiar el número de fotografias que se muestran en pantalla, la orientación de estas y unos botones para cambiar la página 
+    que carga para moverse por las diferentes fotos, ademas en caso de no encontrar ningún resultado con la busqueda se comunica y se muestran otras opciones posibles para mostrar.</p>
+    </section>`
+    ;
 };
